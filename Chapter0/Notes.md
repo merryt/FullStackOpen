@@ -54,5 +54,3 @@ AJAX is the tech we trigger with javascript to communicate with the client and t
 
 
 
-
-
