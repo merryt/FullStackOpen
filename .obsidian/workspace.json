@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter1/Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter1/Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter1/Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter1/Notes.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "3c0637459bfaf3f6",
   "lastOpenFiles": [
+    "Chapter1/Notes.md",
     "Chapter1/examples/part1/README.md",
     "Chapter1/examples/part1/src/logo.svg",
-    "Chapter1/Notes.md",
     "Chapter0/Notes.md",
     "2022-12-26.md",
     "2022-26-2022.md",
